@@ -8,15 +8,25 @@ Players can join the game, fight mobs, manage health & hunger, and enjoy OP stat
 ## 📁 Project Structure
 
 CPP-Project-Dockerized/
+
 │
+
 ├── src/
+
 │ ├── Driver.cpp
+
 │ └── Header.h
+
 │
+
 ├── docker/
+
 │ ├── Dockerfile
+
 │ └── docker-compose.yml
+
 │
+
 └── README.md
 
 ---
