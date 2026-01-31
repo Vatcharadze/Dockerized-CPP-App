@@ -1,0 +1,11 @@
+version: "3.9"
+
+services:
+  cpp-app:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    container_name: cpp_project
+    stdin_open: true
+    tty: true
+
