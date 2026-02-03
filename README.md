@@ -37,7 +37,7 @@ CPP-Project-Dockerized/
 
 - From the docker directory:
 
-- docker compose run cpp-app
+``` docker compose run cpp-app ```
 
 
 - To stop the program:
